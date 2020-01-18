@@ -1,0 +1,7 @@
+seoul tokyo 7
+seoul hanoi 9
+seoul moscow 14
+tokyo hanoi 10
+tokyo beijing 15
+beijing hanoi 11
+vladivostok shanghai 9
